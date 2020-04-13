@@ -23,42 +23,42 @@ export default class SuperHeroes {
     // initialize the superheroes
     const tmp: Array<ISuperHero> = [
       {
-        name: "Super-Man",
+        name: "Mario-Polit",
         avatar:
           "https://superherotar.framiq.com/assets/examples/superherotar00.png",
         isTaken: false,
         inCall: false
       },
       {
-        name: "Iron-Man",
+        name: "Luis-Sarrazin",
         avatar:
           "https://superherotar.framiq.com/assets/examples/superherotar05.png",
         isTaken: false,
         inCall: false
       },
       {
-        name: "Bat-Man",
+        name: "Jorge-de-Vera",
         avatar:
           "https://superherotar.framiq.com/assets/examples/superherotar02.png",
         isTaken: false,
         inCall: false
       },
       {
-        name: "Wonder-Woman",
+        name: "Maria-Paz-Manrriquez",
         avatar:
           "https://superherotar.framiq.com/assets/examples/superherotar01.png",
         isTaken: false,
         inCall: false
       },
       {
-        name: "Black-Widow",
+        name: "Ingrid-Paternina",
         avatar:
           "https://superherotar.framiq.com/assets/examples/superherotar07.png",
         isTaken: false,
         inCall: false
       },
       {
-        name: "Elektra",
+        name: "Betsabeth-Garcia",
         avatar:
           "https://superherotar.framiq.com/assets/examples/superherotar06.png",
         isTaken: false,
